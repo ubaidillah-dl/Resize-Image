@@ -1,6 +1,6 @@
 import cv2
 
-image=cv2.imread("Watermark.jpg",0)
+image=cv2.imread("Watermark.jpg")
 
 x=image.shape[1]
 y=image.shape[0]
